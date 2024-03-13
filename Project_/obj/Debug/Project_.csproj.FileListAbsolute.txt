@@ -1,0 +1,7 @@
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\bin\Debug\Project_.exe.config
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\bin\Debug\Project_.exe
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\bin\Debug\Project_.pdb
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\obj\Debug\Project_.csproj.AssemblyReference.cache
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\obj\Debug\Project_.csproj.CoreCompileInputs.cache
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\obj\Debug\Project_.exe
+E:\HOC_C#\GIAIBAITAP\BAI1\Project_\Project_\obj\Debug\Project_.pdb
